@@ -1,0 +1,28 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4f1e0f64-8683-92ab-883d-f10202f97a55"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Semantics: Negative Polarity Items",
+  "course_description": "This course is concerned with Negative Polarity Items. While raising familiar foundational questions for linguistic theory, Negative Polarity Items enter into complex and often revealing interactions with a host of other phenomena in grammar. Investigating several such interactions, the course touches on topics such as focus, presupposition, exhaustification, quantification, (in)definiteness, modals and attitudes, comparison and superlatives, and questions.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.979",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
